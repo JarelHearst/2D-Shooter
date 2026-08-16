@@ -13,7 +13,7 @@ My 2D Shooter is a fast-paced top-down shooter developed in Unity using C#. Play
 • Developed interactive UI systems including the main menu, pause menu, score display, victory screen, and game-over screen.
 • Applied object-oriented programming (OOP), C# scripting, Unity 2D physics, prefab workflows, and component-based game architecture throughout development.
 
-## Full gameplay here!!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LLJRZz1m6DM?si=WitMSwF3G-qF4IlW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## [Watch on Youtube] (https://www.youtube.com/watch?v=LLJRZz1m6DM)
+[![Main] (<img width="1920" height="1080" alt="Screenshot_1920x1080_3" src="https://github.com/user-attachments/assets/cd3e17c9-a3f6-4d41-8f55-f30a7fd8da15" />) (https://www.youtube.com/watch?v=LLJRZz1m6DM)
 
 ## How to install 
