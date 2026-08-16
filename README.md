@@ -32,7 +32,7 @@ Installation
 Windows: If Windows displays a security warning, select More info → Run anyway if you trust the download.
 
 🎮 Controls
-WASD / Arrow Keys — Move
-Mouse — Aim
-Left Mouse Button — Shoot
-ESC — Pause
+* WASD / Arrow Keys — Move
+* Mouse — Aim
+* Left Mouse Button — Shoot
+* ESC — Pause
