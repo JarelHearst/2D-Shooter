@@ -1,3 +1,5 @@
+<img width="720" height="405" alt="2D-Shooter-Gameplay-Action" src="https://github.com/user-attachments/assets/615e06a1-34a7-4712-b72a-55ee837f9aea" />
+
 # Unity 2D shooter top-down Project
 
 ## A fast-paced 2D top-down shooter built in Unity and C#, featuring multi-level progression, enemy waves, dynamic combat, and score tracking.
