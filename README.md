@@ -21,13 +21,13 @@ My 2D Shooter is a fast-paced top-down shooter developed in Unity using C#. Play
 Download 2D Shooter here: https://jarelhearst.itch.io/2d-shooter
 
 Installation
-Visit the 2D Shooter itch.io page using the link above.
-Click the Download button.
-Download the game files to your computer.
-Extract the downloaded .zip file.
-Open the extracted folder.
-Double-click the game's .exe file.
-Start playing! 🎮
+* Visit the 2D Shooter itch.io page using the link above.
+* Click the Download button.
+* Download the game files to your computer.
+* Extract the downloaded .zip file.
+* Open the extracted folder.
+* Double-click the game's .exe file.
+* Start playing! 🎮
 
 Windows: If Windows displays a security warning, select More info → Run anyway if you trust the download.
 
